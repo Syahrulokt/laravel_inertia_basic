@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## website CRUD Laravel+Inertia.js
+## Website CRUD Laravel+Inertia.js
 
 ###### Cara Install
 
